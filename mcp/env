@@ -1,0 +1,7 @@
+export AIDER_MODEL=gemini/gemini-2.0-flash
+# go install github.com/mark3labs/mcphost@latest
+# npm install -g @poai/mcpm-aider
+export MCP_MODEL=google:gemini-2.0-flash
+# export AIDER_MODEL=ollama_chat/llama3.2:3b-instruct-fp16
+export AIDER_VIM="True"
+export AIDER_CODE_THEME="bw"

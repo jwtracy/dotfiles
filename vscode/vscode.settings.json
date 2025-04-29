@@ -1,0 +1,30 @@
+{
+  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "gitProjectManager.baseProjectsFolders": ["/Users/jwtracy/Source"],
+  "accessibility.signals.terminalBell": {
+    "sound": "off",
+    "announcement": "off"
+  },
+  "accessibility.signals.terminalCommandFailed": {
+    "sound": "off",
+    "announcement": "off"
+  },
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+  "workbench.preferredHighContrastColorTheme": "Catppuccin Macchiato",
+  "workbench.preferredHighContrastLightColorTheme": "Catppuccin Latte",
+  "workbench.preferredLightColorTheme": "Catppuccin Latte",
+  "makefile.configureOnOpen": false,
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "notebook.lineNumbers": "on",
+  "notebook.output.textLineLimit": 1000,
+  "notebook.output.scrolling": true,
+  "chat.commandCenter.enabled": false
+}
+
