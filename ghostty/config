@@ -1,0 +1,4 @@
+# https://ghostty.org/docs/config/reference
+theme = catppuccin-latte.conf
+font-family = MesloLGS Nerd Font Mono
+font-size = 16

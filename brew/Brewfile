@@ -18,6 +18,7 @@ brew "bcrypt"
 brew "brotli"
 brew "c-ares"
 brew "cairo"
+brew "cloudflared"
 brew "cmake", link: false
 brew "coreutils"
 brew "docker-buildx"
