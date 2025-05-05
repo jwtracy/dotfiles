@@ -150,7 +150,7 @@ automatically-unhide-macos-hidden-apps = false
     alt-shift-9 = 'move-node-to-workspace a'
     alt-shift-0 = 'move-node-to-workspace b'
 
-    alt-x = 'exec-and-forget open -n "/Applications/iTerm.app"'
+    alt-x = 'exec-and-forget open -n "/Applications/Ghostty.app"'
     alt-c = 'exec-and-forget open -n "/Applications/Google Chrome.app" --args --new-window'
     alt-v = 'exec-and-forget open -n "/Applications/Visual Studio Code.app"'
 

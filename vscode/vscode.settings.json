@@ -1,11 +1,20 @@
 {
-  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.colorTheme": "Catppuccin Latte",
   "workbench.startupEditor": "none",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Catppuccin Latte",
+  "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
   "editor.fontSize": 16,
   "terminal.integrated.fontSize": 16,
+  "terminal.integrated.defaultProfile.linux": "zsh",
   "terminal.integrated.defaultProfile.osx": "zsh",
-  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
-  "gitProjectManager.baseProjectsFolders": ["/Users/jwtracy/Source"],
+  "terminal.integrated.fontFamily": "MesloLGS Nerd Font",
+  "terminal.integrated.macOptionClickForcesSelection": true,
+  "gitProjectManager.baseProjectsFolders": [
+    "/Users/jwtracy/Source",
+    "/Users/jwtracy/Source/go/src",
+    "/home/jwtracy/src/"
+  ],
   "accessibility.signals.terminalBell": {
     "sound": "off",
     "announcement": "off"
@@ -14,17 +23,18 @@
     "sound": "off",
     "announcement": "off"
   },
-  "window.autoDetectColorScheme": true,
-  "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
-  "workbench.preferredHighContrastColorTheme": "Catppuccin Macchiato",
-  "workbench.preferredHighContrastLightColorTheme": "Catppuccin Latte",
-  "workbench.preferredLightColorTheme": "Catppuccin Latte",
-  "makefile.configureOnOpen": false,
-  "explorer.confirmDelete": false,
+  "vs-kubernetes": {
+    "vs-kubernetes.crd-code-completion": "enabled"
+  },
   "editor.formatOnSave": true,
-  "notebook.lineNumbers": "on",
-  "notebook.output.textLineLimit": 1000,
-  "notebook.output.scrolling": true,
-  "chat.commandCenter.enabled": false
+  "leetcode.workspaceFolder": "/Users/jwtracy/Source/jwtracy/leetpy/leet",
+  "leetcode.defaultLanguage": "python3",
+  "leetcode.hint.configWebviewMarkdown": false,
+  "leetcode.hint.commandShortcut": false,
+  "security.promptForLocalFileProtocolHandling": false,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "redhat.telemetry.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "window.commandCenter": false
 }
 
